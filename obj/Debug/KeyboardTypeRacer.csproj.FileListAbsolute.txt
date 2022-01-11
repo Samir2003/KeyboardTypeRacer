@@ -1,0 +1,10 @@
+C:\Users\computer\source\repos\CPT_AliS\KeyboardTypeRacer\bin\Debug\KeyboardTypeRacer.exe.config
+C:\Users\computer\source\repos\CPT_AliS\KeyboardTypeRacer\bin\Debug\KeyboardTypeRacer.exe
+C:\Users\computer\source\repos\CPT_AliS\KeyboardTypeRacer\bin\Debug\KeyboardTypeRacer.pdb
+C:\Users\computer\source\repos\CPT_AliS\KeyboardTypeRacer\obj\Debug\KeyboardTypeRacer.csprojAssemblyReference.cache
+C:\Users\computer\source\repos\CPT_AliS\KeyboardTypeRacer\obj\Debug\KeyboardTypeRacer.Properties.Resources.resources
+C:\Users\computer\source\repos\CPT_AliS\KeyboardTypeRacer\obj\Debug\KeyboardTypeRacer.csproj.GenerateResource.cache
+C:\Users\computer\source\repos\CPT_AliS\KeyboardTypeRacer\obj\Debug\KeyboardTypeRacer.exe
+C:\Users\computer\source\repos\CPT_AliS\KeyboardTypeRacer\obj\Debug\KeyboardTypeRacer.pdb
+C:\Users\computer\source\repos\CPT_AliS\KeyboardTypeRacer\obj\Debug\KeyboardTypeRacer.KeyboardTyper.resources
+C:\Users\computer\source\repos\CPT_AliS\KeyboardTypeRacer\obj\Debug\KeyboardTypeRacer.Resources.Resources.resources
